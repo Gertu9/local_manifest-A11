@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="msm8917devs"
+		fetch="https://github.com/samsung-msm8937-devs"
+		revision="lineage-18.1" />
+
+	<project path="device/samsung/j6primelte" name="android_device_samsung_j6primelte" remote="msm8917devs" />
+	<project path="device/samsung/msm8917-common" name="android_device_samsung_msm8917-common" remote="msm8917devs" />
+	<project path="kernel/samsung/msm8917" name="android_kernel_samsung_msm8917" remote="msm8917devs" />
+	<project path="vendor/samsung" name="android_vendor_samsung-common" remote="msm8917devs" />
+</manifest>

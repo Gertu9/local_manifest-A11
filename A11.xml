@@ -7,6 +7,6 @@
 	<project path="device/samsung/j6primelte" name="android_device_samsung_j6primelte" remote="projectmedusa" />
 	<project path="device/samsung/msm8917-common" name="android_device_samsung_msm8917-common" remote="projectmedusa" revision="main" />
 	<project path="kernel/samsung/msm8917" name="android_kernel_samsung_msm8917_Q" remote="projectmedusa" revision="msm8917-pure" />
-	<project path="vendor/samsung" name="android_vendor_samsung-common" remote="projectmedusa" revision="lineage-18.1-old" />
+	<project path="vendor/samsung" name="android_vendor_samsung_msm8917-common" remote="projectmedusa" revision="lineage-18.1-old" />
 	<project path="hardware/samsung" name="android_hardware_samsung" remote="projectmedusa" revision="lineage-18.1" />
 </manifest>
